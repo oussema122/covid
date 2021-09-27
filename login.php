@@ -21,7 +21,7 @@ session_start();
 
 		<!----css file link-->
 	
-	<link rel="stylesheet" type="text/css" href="css/login.css">
+	<link rel="stylesheet" type="text/css" href="login.css">
 
 	   <!----favicon setting-->
 	<link rel="shortcut icon" type="text/css" href="img/mylogo.png">
