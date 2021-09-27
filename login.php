@@ -49,14 +49,6 @@ session_start();
 
 	<!----------email notification-------->
 
-<script type="text/css">
-	
-
-
-
-
-
-</script>
 
 </head>
 <body>
